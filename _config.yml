@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: alihamdani
+title: sufiblues
 email: ali.hamdani.developer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog serves as a way to showcase my thoughts and experiments on random things in data science and computing. Although I don't have any particular topic that I wan't to talk about most of my thoughts are usually about bayesian modeling, reinforcement learning, music, and video games. 
