@@ -28,7 +28,7 @@ twitter_username: hamdaddy
 github_username:  sufiblues
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
